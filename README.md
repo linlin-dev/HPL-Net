@@ -4,6 +4,6 @@ The official implementation of the paper "Hierarchical Prototype Learning via Ag
 
 <h3>HPL-Net</h3>
 
-<img src="/figure/distr.jpg" width="800px">  
+<img src="44BF6B52B5648DD6CF758159116B3C37.png" width="800px">  
 
 <p> To address the dataset scarcity problem	<br>
