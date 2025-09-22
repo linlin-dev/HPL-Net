@@ -10,7 +10,7 @@ The official implementation of the paper "Hierarchical Prototype Learning via Ag
 
 ## 📝 Overview of HPL-Net
 <p align="center">
-<img src="demo/HPL-Net2.jpg" alt="scatter" width="98%"/> 
+<img src="demo/HPL-Net2.pdf" alt="scatter" width="98%"/> 
 </p>
 
 ## 🛠️ Installation
