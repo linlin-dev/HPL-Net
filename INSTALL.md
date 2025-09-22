@@ -16,8 +16,8 @@
 
 ```bash
 
-conda create --name BAL_RS_SGG 
-conda activate BAL_RS_SGG
+conda create --name HPL-Net 
+conda activate HPL-Net
 
 
 conda install ipython
@@ -44,8 +44,8 @@ cd apex
 python setup.py install --cuda_ext --cpp_ext
 
 cd $INSTALL_DIR
-git clone https://github.com/Zhuzi24/BAL.git
-cd BAL
+git clone https://github.com/linlin-dev/HPL-Net.git
+cd HPL-Net
 
 python setup.py build develop
 unset INSTALL_DIR
