@@ -17,17 +17,8 @@ The official implementation of the paper "Hierarchical Prototype Learning via Ag
 Check [INSTALL.md](INSTALL.md) for installation instructions.
 
 ## 🔖 Dataset
-The STAR dataset [4] can be accessed at: https://linlin-dev.github.io/project/STAR.html.
-The AUG dataset [7] can be accessed at: https://drugd.github.io/AUGDataset.github.io/
-
-<!-- ## 🔖 Dataset
-Check [DATASET.md](DATASET.md) for instructions of dataset preprocessing. -->
-
-<!-- ## ✏️ Metrics and Results
-Explanation of metrics in our toolkit and reported results for OBD and SGG are given in [METRICS.md](METRICS.md).  -->
-
-<!-- ## ✒️ Object Detection
-If you are only involved in OBB/HBB object detection, you can refer to [STAR-MMRotate](https://github.com/yangxue0827/STAR-MMRotate) and [STAR-MMDetection](https://github.com/Zhuzi24/STAR-MMDetection). -->
+- The STAR dataset (https://linlin-dev.github.io/project/STAR.html)
+- The AUG dataset (https://drugd.github.io/AUGDataset.github.io/)
 
 
 ## 🖊️ Citation
