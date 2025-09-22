@@ -48,6 +48,32 @@ If you find this work helpful for your research, please consider giving this rep
     publisher="Springer Nature Switzerland",
     pages="18--35"}
 
+# Remote Sensing Large Multi-Modal Models for SGG
+@article{SkySenseGPT,
+    title={SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding},
+    author={Luo, Junwei and Pang, Zhen and Zhang, Yongjun and Wang, Tingzhu and Wang, Linlin and Dang, Bo and Lao, Jiangwei and Wang, Jian and Chen, Jingdong and Tan, Yihua and Li, Yansheng},
+    journal={arXiv preprint arXiv:2406.10100},
+    year={2024}}
+
+# Large-size Object Detection in Remote Sensing Imagery
+@article{HBD,
+    title={Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery},
+    author={Li, Yansheng and Luo, Junwei and Zhang, Yongjun and Tan, Yihua and Yu, Jin-Gang and Bai, Song},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    volume={44},
+    number={11},
+    pages={7778--7796},
+    year={2024},
+    publisher={IEEE}}
+
+# SGG in Natural Imagery
+@inproceedings{HML,
+    title={Hierarchical Memory Learning for Fine-grained Scene Graph Generation},
+    author={Deng, Youming and Li, Yansheng and Zhang, Yongjun and Xiang, Xiang and Wang, Jian and Chen, Jingdong and Ma, Jiayi},
+    booktitle={European Conference on Computer Vision},
+    pages={266--283},
+    year={2022},
+    organization={Springer}}
 ```
 ## Acknowledgment
 Our code is based on [SGG-ToolKit](https://github.com/Zhuzi24/SGG-ToolKit) in TPAMI2024-STAR, please see https://linlin-dev.github.io/project/STAR.html.
